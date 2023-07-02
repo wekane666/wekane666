@@ -10,6 +10,8 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+
+  
 <br />
 
 My name is Oleg Sergeyev. Now I'm studying to be an DevOps engeneer. I am learning Git and some other interesting technologies.
